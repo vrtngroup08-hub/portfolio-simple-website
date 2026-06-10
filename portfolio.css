@@ -1,0 +1,86 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container{
+    padding: 50px;
+
+}
+
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.section-one__contact{
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding-left: 10PX;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    display:inline-block;
+    margin-top: 10px;
+}
+
+.section-one__name{
+    font-size: 60px;
+}
+
+.section-one__role{
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.section-one__two,.section-three, .section-one__four, .section-one__five{
+    margin-top: 20px;
+}
+
+.section-two__desc, .section-three__desc, .section-four__desc, .section-five__link,
+.section-five__me{
+    margin-top: 10px;
+}
+
+.section-five{
+    background-color: black;
+    color: white;
+    padding:20px;
+    margin-right: 30px;
+    margin-top: 10px;
+
+}
+
+.section-five__link a {
+    color: skyblue;
+
+}
+
+.section-three li, .section-four li{
+    list-style: none;
+}
+
+.section-three{
+    background-color: rgb(57, 57, 201);
+    padding: 20px;
+    color: black;
+    display: inline-block;
+    height: 250px;
+    border-radius: 20px;
+    vertical-align: top;
+}
+
+.section-four{
+    background-color: rgb(222, 93, 46);
+    color: black;
+    padding:20px;
+    height: 250px;
+    display: inline-block;
+    border-radius: 20px;
+    margin-top: 20px;
+}

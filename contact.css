@@ -1,0 +1,63 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container{
+    padding: 50px;
+}
+
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.section-one__btn{
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding-left: 10PX;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    display:inline-block;
+    margin-top: 10px;
+}
+
+.section-three{
+    background-color: black;
+    color: white;
+    padding:20px;
+    margin-right: 30px;
+    margin-top: 10px;
+
+}
+
+.contact-form{
+    padding: 20px;
+}
+
+.contact-form tr td{
+    padding: 10px;
+}
+
+.section-three__link a{
+    color: skyblue;
+}
+
+.contact-form__submit{
+    background-color: orangered;
+    color: black;
+    text-decoration: none;
+    padding-left: 10PX;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    display:inline-block;
+    border: none;
+    
+}
